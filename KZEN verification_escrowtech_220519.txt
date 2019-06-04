@@ -1,0 +1,17 @@
+string to sign:
+
+BTC 8692, 27 MAY 2019
+
+public key:
+
+-----BEGIN PUBLIC KEY-----
+MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAESND9gpoSfhOBq4nxb/gghyViiR6yIsoc
+kAJOFFHSo4eOwg5b77iwTPV784aJyZ1VerGDIONzqliPgaKia5hHzg==
+-----END PUBLIC KEY-----
+
+signature:
+
+MEUCIQCyIZAvkN/yBP0viYE8f9lyUp+WHiNUleZ7fIdYxCLhYwIgEZ7Fx60z3A+tS3l9QlNMhpqM
+f5H7CphfBDOl7eJw09E=
+
+Verified OK
